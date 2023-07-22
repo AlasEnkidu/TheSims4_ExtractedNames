@@ -1,0 +1,204 @@
+Cricket
+Lightning Bug
+Polaris
+Blue
+Chestnut
+Chrome
+Copper
+Crimson
+Silver
+Bronco
+Derby
+Rodeo
+Biscuit
+Buttermilk
+Butterscotch
+Fritter
+Grits
+Hominy
+Horchata
+Hush Puppy
+Marshmallow
+Moon Pie
+Pancake
+Salsa
+Sofkee
+Sorghum
+Succotash
+Sugar
+Cayenne
+Cinnamon
+Coconut
+Licorice
+Peanut
+Pecan
+Pepper
+Persimmon
+Pine Nut
+Salt
+Arcade
+Domino
+Hot Pursuit
+No Limits
+Tempest
+Unbound
+Appalachia
+California
+Denali
+Elko
+Kentucky
+Lexington
+Mojave
+Nashville
+Nevada
+Pimlico
+Shiloh
+Talladega
+Texas
+Bruno
+Chip
+Dorian
+Rocky
+Booger
+Charley Horse
+Dappleganger
+Good Neighbor
+Haymaker
+Hoarse
+Horseoscope
+Howdy
+Longface
+Maneiac
+Mayo Neighs
+Neighdy
+Neighpoleon
+Neighsayer
+Ocean Cookie
+Potatoes
+Puzzles
+Shadowmorse
+Shoe
+Agamemnon
+Bucephalus
+Dusty
+Fable
+Flame
+Haiku
+Limerick
+Rocinante
+Scout
+Smoky
+Trojan
+Velvet
+Zorro
+Bill
+Amadeus
+Blondie
+Firefly
+Hidalgo
+Iron Bull
+Maximus
+Patch
+Pie
+Sebastian
+Spaghetti
+Spartan
+Spirit
+Sugar Foot
+Superlative
+Wildfire
+Cha-Cha
+Dipsy Doodle
+Dynamo
+Hokey Pokey
+Samba
+Zag
+Zig
+Banjo
+Bluegrass
+Big Rock Candy
+Twang
+Apollo
+Arion
+Centaur
+Chiron
+Hrimfaxi
+Kelpie
+Neptune
+Pegasus
+Phoenix
+Poseidon
+Skinfaxi
+Forty-Niner
+Gold Rush
+High Noon
+Justice
+Prospector
+Rusty
+Mo
+Mozart
+Reno
+Si'rah
+Starbuck
+Chance
+Endeavor
+Fancy
+Legendary
+Lucky
+Magic
+Prime
+Sassy
+Shorty
+Smarty
+Truck
+Tuff
+Sunny
+Valentino
+Chicory
+Clover
+Pinecone
+Saffron
+Sarsaparilla
+Sassafras
+Sugarbush
+Tulip
+Tumbleweed
+Willow
+Admiral
+Boomer
+Buddy
+Drover
+King
+Marshall
+Olympian
+Outlaw
+Pirate
+Prince
+Ranger
+Rascal
+Rebel
+Samurai
+Sheriff
+Trailblazer
+Wise Guy
+Bullet Train
+Cruiser
+Dash
+Falcon
+Hot Rod
+Jet Pack
+Lightning
+Molasses
+Speedway
+Thunder
+Turtle
+Midnight
+Sunrise
+Cyclone
+Tornado
+Blaze
+Frosty
+Hurricane
+Maelstrom
+Sunshine
+Rhythm n Blues
